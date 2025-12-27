@@ -1,0 +1,6 @@
+# Project Dependencies
+/node_modules
+
+# The output of `bun run build`
+/.svelte-kit
+/.vercel
