@@ -1,1 +1,15 @@
-dezlymacauley.com
+# dezlymacauley.com
+_______________________________________________________________________________
+
+**My personal brand website:**
+
+[dezlymacauley.com](https://dezlymacauley.com)
+
+_______________________________________________________________________________
+
+**Technologies Used:**
+- 🦕 Deno
+- 🧡 SvelteKit
+- 💨 Tailwind CSS
+
+_______________________________________________________________________________
