@@ -1,6 +1,5 @@
 <!---------------------------------------------------------------------------->
 <style>
-
   @reference "$lib/global.css";
 
   main {
@@ -34,10 +33,16 @@
     @apply shadow-lg shadow-blue-700/75;
     @apply hover:shadow-xl hover:text-white hover:font-bold hover:bg-blue-600;
   }
+
+  .resume-link {
+    @apply bg-[#610079];
+    @apply rounded-3xl;
+    @apply shadow-lg shadow-[#610079]/75;
+    @apply hover:shadow-xl hover:text-white hover:font-bold hover:bg-[#9f00c6];
+  }
 </style>
 <!---------------------------------------------------------------------------->
 <main>
-
   <h1>
     <a
       class="dezlymacauley-dot-com-link"
@@ -65,4 +70,11 @@
     GitHub
   </a>
 
+  <a
+    href="/resume/dezly_macauley_resume.pdf"
+    class="resume-link"
+    download
+  >
+    Download Resume
+  </a>
 </main>
