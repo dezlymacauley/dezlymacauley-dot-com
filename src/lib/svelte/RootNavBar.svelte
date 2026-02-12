@@ -13,7 +13,9 @@
   .navbar-container {
     @apply flex justify-between;
     @apply items-center;
-    @apply px-4 py-2;
+    @apply px-4 p-4;
+    @apply mb-6;
+    @apply border-b-2 border-[#222];
   }
 
   .left-section-container {
