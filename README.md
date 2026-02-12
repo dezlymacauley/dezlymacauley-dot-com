@@ -7,9 +7,12 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
-**Technologies Used:**
-- 🦕 Deno
-- 🧡 SvelteKit
-- 💨 Tailwind CSS
+### Technologies Used
 
+| Component            | Technology                |
+|----------------------|---------------------------|
+| Meta-Framework       | 🏡 SvelteKit, 🧡 Svelte   |
+| UI Layout            | 📜 HTML, 💨 Tailwind CSS  |
+| Programming Language | 🪄 TypeScript             |
+| UI Animations        | 🍀 GSAP                   |
 _______________________________________________________________________________
