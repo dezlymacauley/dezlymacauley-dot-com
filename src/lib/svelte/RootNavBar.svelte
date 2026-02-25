@@ -99,7 +99,6 @@
     <a
       href={resume}
       class="right-section-link resume-link"
-      download
     >
       Download Resume
     </a>
