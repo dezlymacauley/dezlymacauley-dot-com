@@ -99,6 +99,8 @@
     <a
       href={resume}
       class="right-section-link resume-link"
+      target="_blank"
+      rel="noopener noreferrer"
     >
       Download Resume
     </a>
