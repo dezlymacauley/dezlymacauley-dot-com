@@ -6,7 +6,6 @@
   const resume = "/resume/dezly_macauley_resume.pdf";
 </script>
 
-
 <style>
   @reference "$lib/css/global.css";
 
