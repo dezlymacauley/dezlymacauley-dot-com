@@ -9,8 +9,7 @@
     "npm:svelte-check@4.4.5": "4.4.5_svelte@5.53.11_typescript@5.9.3",
     "npm:svelte@5.53.11": "5.53.11",
     "npm:tailwindcss@4.2.1": "4.2.1",
-    "npm:typescript@5.9.3": "5.9.3",
-    "npm:vite@6.3.5": "6.3.5"
+    "npm:typescript@5.9.3": "5.9.3"
   },
   "npm": {
     "@deno/experimental-route-config@0.0.5": {
@@ -1254,7 +1253,7 @@
         "npm:svelte@5.53.11",
         "npm:tailwindcss@4.2.1",
         "npm:typescript@5.9.3",
-        "npm:vite@6.3.5"
+        "npm:vite@7.0.0"
       ]
     }
   }

@@ -53,6 +53,6 @@ deno task setup
 
 7. Check that all the links on the website and resume are working
 ```sh
-deno task dev
+deno task preview
 ```
 _______________________________________________________________________________
