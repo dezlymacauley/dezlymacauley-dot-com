@@ -2,7 +2,7 @@
   const urlTags = { target: "_blank", rel: "noopener noreferrer" };
   const home = "https://dezlymacauley.com";
   const youtube = "https://www.youtube.com/@dezlymacauley";
-  const github = "https://github.com/dezlymacauley?tab=overview&from=2026-01-01&to=2026-12-31";
+  const github = "https://github.com/dezlymacauley";
   const resume = "/resume/dezly_macauley_resume.pdf";
 </script>
 

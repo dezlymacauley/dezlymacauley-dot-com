@@ -12,10 +12,6 @@
     @apply border-t-2 border-[#222];
   }
 
-  .tagline {
-    @apply text-sm font-normal mt-2;
-  }
-
   .links {
     @apply mt-4 flex justify-center gap-6 text-sm;
   }
