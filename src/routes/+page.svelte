@@ -10,7 +10,7 @@
 
 <h1>Dezly Macauley</h1>
 
-<h2>Docker</h2>
+<h2>Rust Systems Programmer</h2>
 
 <div>
   <a href={github} {target} {rel}>GitHub</a>
