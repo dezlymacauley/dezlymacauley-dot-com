@@ -1,3 +1,6 @@
+# Build Output
+.deno-deploy/
 .svelte-kit/
-.vercel/
+
+# Project dependencies
 node_modules/

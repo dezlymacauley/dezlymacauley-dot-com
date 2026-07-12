@@ -1,19 +1,9 @@
 <script lang="ts">
-  import favicon from "$lib/assets/favicon.svg";
+  import "$lib/global.css"
+	import favicon from "$lib/assets/favicon.svg";
 
-  let { children } = $props();
+	let { children } = $props();
 </script>
 
-<svelte:head>
-	<link rel="icon" href={favicon} />
-</svelte:head>
-
+<svelte:head><link rel="icon" href={favicon} /></svelte:head>
 {@render children()}
-
-<style>
-  :global(*) {
-    box-sizing: border-box;
-    margin: 0px;
-    padding: 0px;
-  }
-</style>
