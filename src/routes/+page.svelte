@@ -1,1 +1,5 @@
-<h1>Dezly Macauley</h1>
+<script>
+    import HeroSection from "$lib/HeroSection.svelte";
+</script>
+
+<HeroSection />
