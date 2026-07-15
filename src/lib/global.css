@@ -1,1 +1,26 @@
 @import "tailwindcss";
+
+@theme {
+
+  /* 
+    To create a custom color in Tailwind CSS, use the syntax
+    --color-variable-name: value;
+
+    E.g. I'm creating a custom color called `website-background`
+  */
+
+  --color-website-background: #0A0A0A;
+  --color-website-text: #E5EAEA;
+}
+
+body {
+
+  /* 
+    Use `@apply` to use Tailwind classes
+  */
+
+  /* @apply border-4 border-red-600; */
+  @apply min-h-dvh;
+  @apply bg-website-background;
+  @apply text-website-text;
+}
