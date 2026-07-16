@@ -11,6 +11,7 @@
 
   --color-website-background: #0A0A0A;
   --color-website-text: #E5EAEA;
+  --color-brand-purple: #70008B;
 }
 
 body {
@@ -23,4 +24,6 @@ body {
   @apply min-h-dvh;
   @apply bg-website-background;
   @apply text-website-text;
+  @apply selection:bg-brand-purple selection:text-website-text;
+
 }
