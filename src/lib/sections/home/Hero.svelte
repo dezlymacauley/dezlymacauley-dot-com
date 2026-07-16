@@ -6,15 +6,14 @@
 
 <section class="hero-container border-4 border-red-500">
   <div class="hero-content border-4 border-blue-500">
-
     <span class="hero-tagline border-4 border-yellow-400">
       🦀 Rust | 🐍 Python | 🐹 Go | 🦕 Deno
     </span>
-    
+
     <span class="hero-tagline border-4 border-yellow-400">
       🐳 Docker
     </span>
-    
+
     <span class="hero-tagline border-4 border-yellow-400">
       🐘 Postgres
     </span>
@@ -22,7 +21,7 @@
     <h1 class="hero-title border-4 border-green-500">
       Dezly Macauley
     </h1>
-    
+
     <h1 class="hero-title border-4 border-green-500">
       - Modern Systems Programming<br />
       - Developer Workflows<br />
@@ -30,16 +29,14 @@
     </h1>
 
     <div class="hero-buttons border-4 border-pink-500">
-      <button class="btn-primary border-4 border-orange-500">
-        View selected work
-        <!-- <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor"> -->
-        <!--   <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 19.5l15-15m0 0H8.25m11.25 0v11.25" /> -->
-        <!-- </svg> -->
-      </button>
-
-      <button class="btn-secondary border-4 border-cyan-500">
-        Get in touch
-      </button>
+      <div class="hero-buttons border-4 border-pink-500">
+        <a
+          href="mailto:your.email@gmail.com"
+          class="cursor-pointer btn-secondary border-4 border-cyan-500 inline-flex items-center justify-center text-center"
+        >
+        Contact Dezly
+        </a>
+      </div>
     </div>
   </div>
 </section>
